@@ -1,0 +1,28 @@
+body{
+  background-color:blue;
+}
+div{
+  
+  padding-top:25px;
+  padding-bottom:0px;
+  display:block;
+  text-transform:capitalize;
+  width:50px;
+  height:40px;
+  background:#32cd32;
+  transition:width 1s;
+ }
+div:hover{
+  width:250px;
+}
+ul li {
+list-style:none;
+  text-align:center;
+  
+  }
+ul li a{
+  text-decoration:none;
+  color:white;
+  
+}
+}
